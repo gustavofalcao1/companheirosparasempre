@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,12 +27,12 @@
       </div>
       <div class="topMenu">
         <ul>
-          <li class="navMenu"><a class="navLink" href="#">Home</a></li>
-          <li class="navMenu"><a class="navLink" href="#servicesContent">Services</a></li>
-          <li class="navMenu"><a class="navLink" href="#productsContent">Products</a></li>
+          <li class="navMenu"><a class="navLink" href="#">Inicio</a></li>
+          <li class="navMenu"><a class="navLink" href="#servicesContent">Serviços</a></li>
+          <li class="navMenu"><a class="navLink" href="#productsContent">Produtos</a></li>
           <li class="navMenu"><a class="navLink" href="#memorialContent">Memorial</a></li>
-          <li class="navMenu"><a class="navLink" href="#contactsContent">Contacts</a></li>
-          <li class="navMenu"><a class="navLink" href="/login/">Login</a></li>
+          <li class="navMenu"><a class="navLink" href="#contactsContent">Contactos</a></li>
+          <li class="navMenu"><a class="navLink" href="#login">Login</a></li>
         </ul>
         <div class="idioma">
           <ul>
@@ -94,6 +94,13 @@
               </div>
             </div>
             <div class="service">
+              <div class="icon"><img src="../src/icons/packs.png" alt="" width="46"></i></div>
+              <div class="desc">
+                <h2>Packs</h2>
+                <p>Packs pensados para um momento digno para os nossos companheiros.</p>
+              </div>
+            </div>
+            <div class="service">
               <div class="icon"><img src="../src/icons/transporte.png" alt="" width="40"></i></div>
               <div class="desc">
                 <h2>Transporte</h2>
@@ -151,7 +158,6 @@
         <div id="memorialContent" class="memorialContent cnt">
           <hr class="tittle">
           <h1>Mémorial</h1>
-          <h5>Nunca seram esquecidos...</h5>
           <section class="cards">
             <div class="card card-item-01">
               <div class="card__image-wrapper">
@@ -171,49 +177,14 @@
                   sei que não pude fazer nada para que o "dia 3" não acontecesse mas mesmo assim sinto culpa, aquela sensação que podia sempre ter feito alguma coisa para o evitar e para teres ficado, aquela dor que não passa, que piora com o tempo e se torna ódio, aquela dor que me faz pensar sempre que não aproveitei os nossos últimos dias.
                   ficas-te e sempre ficarás na memória de todos acredita, principalmente na minha.um dia iremo-nos encontrar outra vez e essa sim, será para sempre prometo pequenina S2
                 </p>
-              </div>  
-            </div>
-            <div class="card card-item-02">
-              <div class="card__image-wrapper">
-                <img class="card__image" src="../src/img/elf.jpg" alt="Mountains" width="80" height="420">
-              </div>
-              <div class="card__content" onclick="showBox2()">
-                <h5 class="card__category">23/03/1999 ~ 02/06/2050</h5>
-                <h2 class="card__title">João</h2>
-                <p class="card__text">Vive chapado, mas tem sempre energia a 100%</p>
-              </div>
-              <div id="card__box2">
-                <div class="card__close" onclick="showBox2()">X</div>
-                <h2 class="card__boxH2">João</h2>
-                <p class="card__boxTxt">
-                  Vive chapado, mas tem sempre energia a 100%
-                </p>
               </div> 
             </div>
-            <div class="card card-item-03">
-            <div class="card__image-wrapper">
-              <img class="card__image" src="../src/img/hawk.jpg" alt="Road" width="80" height="420">
-            </div>
-            <div class="card__content" onclick="showBox3()">
-              <h5 class="card__category">13/03/1996 ~ 01/01/2042</h5>
-              <h2 class="card__title">Gustavo</h2>
-              <p class="card__text">Lindo! Vai deixar saudades :')</p>
-            </div>
-            <div id="card__box3">
-              <div class="card__close" onclick="showBox3()">X</div>
-              <h2 class="card__boxH2">Gustavo</h2>
-              <p class="card__boxTxt">
-                Lindo! Vai deixar saudades :')
-              </p>
-            </div> 
+          </section>
+          <a class="memorialBtn" href="../memorial">Veja Mais</a>
           </div>
-        </section>
-        <a class="memorialBtn" href="../memorial">Veja Mais</a>
-        </div>
         <div id="contactsContent" class="contactsContent cnt">
           <hr class="tittle">
           <h1>Contactos</h1>
-          <h5>Deixe sua mensagem</h5>
             <div class="contactForm">
               <form id="contact-form" name="contact-form" action="mail.php" method="POST">
                 <div class="row">
