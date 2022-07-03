@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="../src/components/main.css">
+  <link rel="stylesheet" href="../src/components/slider.css">
+  <link rel="stylesheet" href="../src/components/services.css">
+  <link rel="stylesheet" href="../src/components/products.css">
+  <link rel="stylesheet" href="../src/components/memorial.css">
+  <link rel="stylesheet" href="../src/components/contact.css">
+  <link rel="stylesheet" href="../src/components/float-menu.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+  <title>Companheiros Para Sempre</title>
+</head>
+<body id="body">
+  <div class="logo">
+    <a href="./"><img id="logoImgLight" src="../src/img/logoLG.png" alt="logo" width="160" /></a>
+  </div>
+  <header>
+    <div class="header">
+      <div class="logoHearder">
+        <a href="./"><img id="logoImg" src="../src/img/logoDK.png" alt="logo" width="120" /></a>
+      </div>
+      <div class="topMenu">
+        <ul>
+          <li class="navMenu"><a class="navLink" href="#">Inicio</a></li>
+          <li class="navMenu"><a class="navLink" href="#servicesContent">Serviços</a></li>
+          <li class="navMenu"><a class="navLink" href="#productsContent">Produtos</a></li>
+          <li class="navMenu"><a class="navLink" href="#memorialContent">Memorial</a></li>
+          <li class="navMenu"><a class="navLink" href="#contactsContent">Contactos</a></li>
+          <li class="navMenu"><a class="navLink" href="/login/">Login</a></li>
+        </ul>
+        <div class="idioma">
+          <ul>
+            <li><a href="../en/">EN</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </header>
+  <main>
+    <div class="container">
+      <div class="sliders">
+         <div class="sliderBG"></div>
+         <div id="slide-window">
+          <ol id="slides" start="1">
+            <li class="slide color-0 alive" style="background-image:url(../src/img/cat.jpeg);">
+              <h1>Aquele que não é capaz de amar não é capaz de amar ninguém!</h1>
+            </li>
+            <li class="slide color-1" style="background-image:url(../src/img/cat-human.jpeg);">
+              <h1>Aquele que não é capaz de amar não é capaz de amar ninguém!</h1>
+            </li>
+            -->
+          </ol>
+        <span class="nav fa fa-chevron-left fa-3x" id="left"></span>
+        <span class="nav fa fa-chevron-right fa-3x" id="right"></span>
+      </div>
+      </div>
+      <div class="content">
+        <div id="servicesContent" class="servicesContent cnt">
+          <hr class="tittle">
+          <h1>Serviços</h1>
+          <section id="services" class="services">
+            <div class="service">
+              <div class="icon"><img src="../src/icons/cremacao-coletiva.png" alt="" width="46"></i></div>
+              <div class="desc">
+                <h2>Cremação Coletiva</h2>
+                <p>Cremação destinada a diversos animais de estimação sem direito á recolha das cinzas.</p>
+              </div>
+            </div>
+            <div class="service">
+              <div class="icon"><img src="../src/icons/cremacao-individual.png" alt="" width="50"></i></div>
+              <div class="desc">
+                <h2>Cremação Individual</h2>
+                <p>Cremação destinada ao seu companheiro com direito á recolha das cinzas. Emissão de certificado oficial de cremação.</p>
+              </div>
+            </div>
+            <div class="service">
+              <div class="icon"><img src="../src/icons/seputamento.png" alt="" width="46"></div>
+              <div class="desc">
+                <h2>Sepultamento</h2>
+                <p>Sepultamento do companheiro no jardim memorial originando uma árvore.</p>
+              </div>
+            </div>
+            <div class="service">
+              <div class="icon"><img src="../src/icons/cerimonia.png" alt="" width="46"></i></div>
+              <div class="desc">
+                <h2>Cerimónia</h2>
+                <p>Cerimónia personalizada em memória do companheiro.</p>
+              </div>
+            </div>
+            <div class="service">
+              <div class="icon"><img src="../src/icons/packs.png" alt="" width="46"></i></div>
+              <div class="desc">
+                <h2>Packs</h2>
+                <p>Packs pensados para um momento digno para os nossos companheiros.</p>
+              </div>
+            </div>
+            <div class="service">
+              <div class="icon"><img src="../src/icons/transporte.png" alt="" width="40"></i></div>
+              <div class="desc">
+                <h2>Transporte</h2>
+                <p>Realizamos transporte do companheiro em todo o distrito do Porto e à entrega das cinzas.</p>
+              </div>
+            </div>
+          </section>
+        </div>
+        <div id="productsContent" class="productsContent cnt">
+          <hr class="tittle">
+          <h1>Produtos</h1>
+          <section id="products" class="products">
+            <div class="service">
+              <div class="icon"><img src="../src/icons/urnas.png" alt="" width="50"></i></div>
+              <div class="desc">
+                <h2>Urnas</h2>
+                <p>Cremação destinada a diversos animais de estimação sem direito á recolha das cinzas.</p>
+                <a class="productsBtn" href="../cremacao-coletiva">Veja Mais</a>
+              </div>
+            </div>
+            <div class="service">
+              <div class="icon"><img src="../src/icons/lembrancas.png" alt="" width="50"></i></div>
+              <div class="desc">
+                <h2>Lembranças</h2>
+                <p>Cremação destinada ao seu companheiro com direito á recolha das cinzas. Emissão de certificado oficial de cremação.</p>
+                <a class="productsBtn" href="../cremacao-individual">Veja Mais</a>
+              </div>
+            </div>
+            <div class="service">
+              <div class="icon"><img src="../src/icons/acessorios.png" alt="" width="46"></div>
+              <div class="desc">
+                <h2>Acessórios</h2>
+                <p>Sepultamento do companheiro no jardim memorial originando uma árvore.</p>
+                <a class="productsBtn" href="../seputamento">Veja Mais</a>
+              </div>
+            </div>
+            <div class="service">
+              <div class="icon"><img src="../src/icons/higiene.png" alt="" width="46"></i></div>
+              <div class="desc">
+                <h2>Higiene</h2>
+                <p>Cerimónia personalizada em memória do companheiro.</p>
+                <a class="productsBtn" href="../cerimonia">Veja Mais</a>
+              </div>
+            </div>
+            <div class="service">
+              <div class="icon"><img src="../src/icons/alimentacao.png" alt="" width="40"></i></div>
+              <div class="desc">
+                <h2>Alimentação</h2>
+                <p>Realizamos transporte do companheiro em todo o distrito do Porto e à entrega das cinzas.</p>
+                <a class="productsBtn" href="../transporte">Veja Mais</a>
+              </div>
+            </div>
+          </section>
+        </div>
+        <div id="memorialContent" class="memorialContent cnt">
+          <hr class="tittle">
+          <h1>Mémorial</h1>
+          <h5>Nunca seram esquecidos...</h5>
+          <section class="cards">
+            <div class="card card-item-01">
+              <div class="card__image-wrapper">
+                <img class="card__image" src="../src/img/fifi.jpg" alt="Desert" width="80" height="420">
+              </div>
+              <div class="card__content" onclick="showBox1()">
+                <h5 class="card__category">20/05/1998 ~ 24/12/2055</h5>
+                <h2 class="card__title">Fifi</h2>
+                <p class="card__text">Podes ser uma simples gata no olhar dos outros mas para mim não és só uma gata és muito mais que isso. encontrei em ti o que nunca mais irei encontrar noutra "pessoa".</p>
+              </div>
+              <div id="card__box1">
+                <div class="card__close" onclick="showBox1()">X</div>
+                <h2 class="card__boxH2">Fifi</h2>
+                <p class="card__boxTxt">
+                  Podes ser uma simples gata no olhar dos outros mas para mim não és só uma gata és muito mais que isso. encontrei em ti o que nunca mais irei encontrar noutra "pessoa". estavas sempre lá quando eu mais precisava, entendias-me melhor que ninguém, conhecias-me melhor que ninguém mesmo sem comunicarmos.
+                  hoje faz 3 meses que partiste...escuta, nunca me irei esquecer de ti, nunca mesmo, não é possível. penso em ti todas as manhãs, todas as noites, não há um único dia que não pense em ti, que não pense em "nós". foi os melhores 15 anos da minha vida, apenas porque estavas lá, eras tudo aquilo que eu precisava, sem ti sinto-me incompleta, não me sinto "eu".
+                  sei que não pude fazer nada para que o "dia 3" não acontecesse mas mesmo assim sinto culpa, aquela sensação que podia sempre ter feito alguma coisa para o evitar e para teres ficado, aquela dor que não passa, que piora com o tempo e se torna ódio, aquela dor que me faz pensar sempre que não aproveitei os nossos últimos dias.
+                  ficas-te e sempre ficarás na memória de todos acredita, principalmente na minha.um dia iremo-nos encontrar outra vez e essa sim, será para sempre prometo pequenina S2
+                </p>
+              </div>  
+            </div>
+            <div class="card card-item-02">
+              <div class="card__image-wrapper">
+                <img class="card__image" src="../src/img/elf.jpg" alt="Mountains" width="80" height="420">
+              </div>
+              <div class="card__content" onclick="showBox2()">
+                <h5 class="card__category">23/03/1999 ~ 02/06/2050</h5>
+                <h2 class="card__title">João</h2>
+                <p class="card__text">Vive chapado, mas tem sempre energia a 100%</p>
+              </div>
+              <div id="card__box2">
+                <div class="card__close" onclick="showBox2()">X</div>
+                <h2 class="card__boxH2">João</h2>
+                <p class="card__boxTxt">
+                  Vive chapado, mas tem sempre energia a 100%
+                </p>
+              </div> 
+            </div>
+            <div class="card card-item-03">
+            <div class="card__image-wrapper">
+              <img class="card__image" src="../src/img/hawk.jpg" alt="Road" width="80" height="420">
+            </div>
+            <div class="card__content" onclick="showBox3()">
+              <h5 class="card__category">13/03/1996 ~ 01/01/2042</h5>
+              <h2 class="card__title">Gustavo</h2>
+              <p class="card__text">Lindo! Vai deixar saudades :')</p>
+            </div>
+            <div id="card__box3">
+              <div class="card__close" onclick="showBox3()">X</div>
+              <h2 class="card__boxH2">Gustavo</h2>
+              <p class="card__boxTxt">
+                Lindo! Vai deixar saudades :')
+              </p>
+            </div> 
+          </div>
+        </section>
+        <a class="memorialBtn" href="../memorial">Veja Mais</a>
+        </div>
+        <div id="contactsContent" class="contactsContent cnt">
+          <hr class="tittle">
+          <h1>Contactos</h1>
+          <h5>Deixe sua mensagem</h5>
+            <div class="contactForm">
+              <form id="contact-form" name="contact-form" action="mail.php" method="POST">
+                <div class="row">
+                    <div class="col-md-6">
+                      <div class="md-form mb-0">
+                        <input type="text" id="name" name="name" class="form-control mt-5" placeholder="Nome">
+                      </div>
+                    </div>
+                    <div class="col-md-6">
+                      <div class="md-form mb-0">
+                        <input type="text" id="email" name="email" class="form-control mt-5" placeholder="E-mail">
+                      </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12">
+                    <div class="md-form mb-0">
+                      <input type="text" id="subject" name="subject" class="form-control mt-4" placeholder="Assunto">
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12">
+                    <div class="md-form">
+                      <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea mt-4" placeholder="Mensagem"></textarea>
+                    </div>
+                  </div>
+                </div>
+              </form>
+              <div class="text-center text-md-left m-4">
+                <a class="contactBtn" onclick="document.getElementById('contact-form').submit();">Enviar</a>
+            </div>
+            <div class="status"></div>
+          </div>
+          <div class="mapouter">
+            <div class="gmap_canvas">
+              <iframe class="map" width="960" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=islagaia&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+          </div>
+        </div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <div class="menuFloat">
+    <a class="chat" onclick="openChat()">
+      <i id="chat-icon-1" class="fa-brands fa-rocketchat"></i>
+      <i id="chat-icon-2" class="fa-solid fa-xmark"></i>
+    </a>
+    <div class="whatsapp"><a href="whatsapp://send?text=Olá!&phone=+351916924517" target="_blank"><img src="../src/img/whatsapp.png" alt="whatsapp" width="45"></a></div>
+  </div>
+  <div id="chatBox" class="chatBox">
+    <div class="chatList">
+      <div class="chatListItLeft">Olá, chamo-me Ines. Como posso ajudar?</div>
+      <div class="chatListItRight">Olá, sou o Pedro.</div>
+      <div class="chatListItLeft">É um prazer, Pedro!</div>
+      <div class="chatListItRight">Tenho uma duvida...</div>
+    </div>
+    <form class="chatForm" action="">
+      <input class="chatMsg form-control" type="text" name="mensagem" placeholder="mensagem">
+      <a class="chatBtn"><i class="fa-solid fa-paper-plane"></i></a>
+    </form>
+  </div>
+  <!--
+  <div class="footerAD">
+    <h3>Faça uma Homenagem ao seu animal de estimação</h3>
+    <img class="adPets" src="../src/img/pets.png" alt="" width="340">
+  </div>
+  -->
+  <div class="footerCurve">
+    <img class="footPets" src="../src/img/petsTop.png" alt="" width="840">
+  </div>
+  <footer>
+    <div class="footerContent">
+      <a href="./"><img src="../src/img/logoDK.png" alt="logo" width="160" /></a>
+      <div class="footerInfor">
+        <div class="footerAddress">
+          <p>Rua de São Gens</p>
+          <p>4460-282 Senhora da Hora</p>
+        </div>
+        <div class="footerContact">
+          <a href="mailto:companheiros@parasempre.com">Email: companheiros@parasempre.com</a>
+          <p>|</p>
+          <a href="tel:+351916924517">Tel.: +351 916 924 517</a>
+        </div>
+        <div>
+          <p>Quarta-Feira a Segunda-Feira, das 10:00 até 19:00</p>
+        </div>
+        <div class="footerLinks">
+          <a href="politicas.html">Política de Privacidade</a>
+          <p>|</p>
+          <a href="https://www.livroreclamacoes.pt/" target="_blank">Livro de Reclamações</a>
+        </div>
+        <hr class="footer">
+        <div class="footerCopyright">
+          <p>©2022 - Companheiros Para Sempre. Todos os direitos reservados. Web development by <a href="https://gustavofalcao1.github.io/" target="_blank">Geek Smart</a>.</p>
+          <p>Este site está protegido por <a href="https://www.google.com/recaptcha/about/" target="_blank">reCAPTCHA</a>, aplicando-se a <a href="https://policies.google.com/privacy" target="_blank">Politica de Privacidade</a> e <a href="https://policies.google.com/terms" target="_blank">Termos e Condições</a> da Google.</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="../src/components/main.js"></script>
+</body>
+</html>

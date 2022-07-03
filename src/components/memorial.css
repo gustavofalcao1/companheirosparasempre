@@ -1,0 +1,132 @@
+.memorialContent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.memorialBtn {
+  background: #558024;
+  font-size: 22px;
+  padding: 10px 30px;
+  text-decoration: none !important;
+  color: #fff;
+  margin-top: 20px;
+  border-radius: 20px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+  border: 2px solid transparent;
+}
+.memorialBtn:hover {
+  background: #D9E2CF;
+  color: #558024;
+  border: 2px solid #558024;
+}
+.cards {
+  width: 100%;
+  padding: 40px;
+  display: grid;
+  gap: 30px;
+}
+@media (min-width: 700px) {
+  .cards {
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+ }
+}
+@media (min-width: 1024px) {
+  .cards {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    gap: 30px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+ }
+}
+.cards .card {
+  color: #fff;
+  cursor: pointer;
+  position: relative;
+  border-radius: 20px;
+}
+.cards .card__image {
+  width: 100%;
+  border-radius: 20px;
+  object-fit: cover;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  transition: 1s;
+}
+.cards .card__category {
+  font-size: 12px;
+  letter-spacing: 0px;
+}
+.cards .card__title {
+  font-size: 24px;
+  letter-spacing: 1px;
+  margin-top: 20px;
+}
+.cards .card__text {
+  font-size: 12px;
+  line-height: 1.5;
+  margin-top: 8px;
+}
+.cards .card__content {
+  position: absolute;
+  display: none;
+  left: 0;
+  top: 0;
+  padding: 20px;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  -ms-transition: 0.2s;
+  transition: 0.2s;
+}
+.cards .card:hover .card__content {
+  display: block;
+  background-color: #0000004f;
+  height: 100%;
+  width: 100%;
+  border-radius: 20px;
+  box-shadow: 3px 5px 5px rgba(0, 0, 0, 0.17);
+}
+.cards .card:hover .card__image {
+  filter: grayscale(100%);
+  filter: gray;
+}
+#card__box1,
+#card__box2,
+#card__box3 {
+  position: fixed;
+  border: 2px solid #558024;
+  display: none;
+  background: #D9E2CF;
+  width: 70vw;
+  height: auto;
+  top: 20%;
+  left: 15%;
+  z-index: 999;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 15px;
+  padding: 5px;
+}
+.card__boxH2 {
+  color: #000;
+}
+.card__boxTxt {
+  font-size: 18px;
+  color: #000;
+}
+.card__close {
+  margin-top: -20px;
+  margin-bottom: 10px;
+  padding: 1px 6px;
+  color: #fff;
+  font-weight: 800;
+  background: #558024;
+  border-radius: 100%;
+  font-size: 16px;
+}

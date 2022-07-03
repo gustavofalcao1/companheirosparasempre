@@ -1,0 +1,184 @@
+1. Âmbito
+
+Cremal - Crematórios do Algarve Lda. (doravante designada por esta Entidade ou CremalPet) é uma pessoa coletiva e no âmbito sua atividade comercial poderá ser necessário a recolha de dados pessoais dos seus clientes / utilizadores. Considerando o direito à privacidade dos clientes, a CremalPet não recolhe nenhuma informação de carácter pessoal sem o prévio consentimento de seus titulares.
+
+ 
+
+No que concerne à navegação e uso do website da CremalPet pelos seus utilizadores, para optimizar e melhorar a experiência na navegação, são recolhidos dados através de cookies podem ou não ficar armazenados no computador / dispositivo de navegação do utilizador.
+
+ 
+
+Pretende-se demonstrar de uma forma clara a recolha e a utilização destes Cookies, a sua finalidade e protecção dos dados recolhidos na utilização do website.
+
+ 
+
+Na navegação do website, não são recolhidos de uma forma automática dados pessoais sem o prévio consentimento.
+
+ 
+
+Em todo o caso, a CremalPet não comercializa sobre qualquer forma os dados pessoais que possam ser recolhidos, nem tão pouco os transmite a terceiros sem o prévio consentimento dos titulares excepto por imposição legal.
+
+ 
+
+2. Entidade Responsável pelo Tratamento de Dados Pessoais
+
+Relativo ao Regulamento (EU) 2016/679 do Parlamento Europeu e do Conselho de 27 de Abril de 2016 designado por RGPD – Regime Geral da Protecção de Dados, a entidade responsável pela recolha e tratamento de dados pessoais é a Cremal - Crematórios do Algarve Lda., Caminho dos Brejos - Cemitério novo de Albufeira, 8200-316 Albufeira, Contribuinte Fiscal 514048379.
+
+  
+
+3. Definição de Dados Pessoais
+
+Qualquer informação, em qualquer suporte escrito, magnético ou digital relativa à identificação de uma pessoa singular ou que possa ser identificável.
+
+ 
+
+4. Consentimento
+
+Na navegação do website, sempre que for necessária a identificação e recolha de dados pessoais, o utilizador terá de autorizar a sua recolha através de mecanismos de autorização que podem variar  mediante o caso mas que serão claros no seu objectivo e intuitivos quanto à utilização.  Por exemplo num formulário de contacto, haverá uma checkbox onde o utilizador deve clicar autorizando a recolha e processamento dos dados pessoais introduzidos no formulário e posterior contacto pela CremalPet. Deve no entanto que fique perceptível que sem autorização do tratamento dos dados não terá a CremalPet forma de contactar o utilizador.
+
+ 
+
+O tratamento dos dados pessoais uma vez autorizado, será feito de acordo com esta Política de Privacidade, devendo a sua autorização pressupor que foi lida e entendida essa bem como os Termos e Condições de utilização do website.
+
+ 
+
+Esta Política de Privacidade e os Termos e Condições de utilização do website poderão ser revistos sem necessidade de consentimento prévio mas sempre em conformidade com o RGPD.
+
+ 
+
+5. Dados Pessoais a serem recolhidos
+
+Os dados pessoais a serem recolhidos ao utilizador serão apenas os necessários para o tratamento indicado.  A recolha é feita genericamente através de um formulário que terá a identificação da sua finalidade e autorização de recolha dos dados quando aplicável. Dependendo do tipo de finalidade podem ser solicitados: Nome, Telefone, Email, número de contribuinte entre outros. Apenas os marcados como obrigatórios serão necessários e essenciais para a actividade sendo os outros facultativos na base da decisão voluntária do titular de dados.
+
+ 
+
+6. Finalidade, exactidão e recolha dos dados
+
+A exactidão dos dados pessoais fornecidos é da exclusiva responsabilidade do titular dos mesmos não podendo a CremalPet ser responsabilizada pela sua incorrecção ou inexactidão.
+
+ 
+
+Os dados de identificação são necessários à atividade e/ou para o cumprimento de obrigações legais e pelo tempo necessário à sua finalidade ou até que seja exercido o direito de oposição, apagamento ou o consentimento seja retirado. O tratamento dos dados pessoais são essenciais e é consentido pelo utilizador e sem o qual não é possível a relação comercial da CremalPet.
+
+ 
+
+Exemplos de finalidade de tratamento de dados:
+
+CRM (Customer Relationship Manager): Gestão de contactos, informação, clientes, fornecedores, prospecção de mercado, pedidos de suporte, faturação, cobranças e pagamentos, entre outros.
+
+ 
+
+Gestão Contabilistica: Faturação, contabilidade, informação fiscal, envio de ficheiro SAFT-PT à autoridade tributária, entre outros.
+
+ 
+
+Marketing: criação de perfis de consumo (dados agregados), análise de produtos e serviços por perfil, entre outros.
+
+ 
+
+Gestão de rede e de sistemas: monitorização, suporte ao serviço, suporte remoto
+
+ 
+
+Operadores de Registo: gestão de dados em operadores nomeadamente ICANN, DNS.PT, EURID, entre outros, gestão de dados em perfis de gestão de serviços web, gestão de dado em perfis de serviços acessórios como certificados digitais pessoais, empresa, etc.
+
+ 
+
+Gestão de controlo e segurança: logs de acesso, incidentes, segurança física e online, vigilância física e remota de sistemas. Gestão de medidas de proteção, firewall, sistema de deteção de intrusão. Sistemas de vigilância sobre o acesso a sistema por parte de colaboradores, níveis de acesso à informação e registo de acessos (logs).
+
+ 
+
+Gestão de Backups: Política de backup, acesso, recuperação e apagamento ou sobreposição. Gestão da redundância de dados e segurança da infraestrutura.
+
+Obrigações Legais: cumprimento de transmissão de dados por via de imposição legal.
+
+ 
+
+Recrutamento: na selecção de potenciais candidatos a recolha e o tratamento dos dados pessoais dos candidatos torna-se necessário. Não serão transmitidos a terceiros sem o seu consentimento prévio.
+
+ 
+
+7- Transmissão de Dados a Terceiros
+
+Regra geral, os dados recolhidos não são partilhados a terceiros excepto por imposição legal ou porque são estritamente necessários para a actividade.
+
+ 
+
+Nos termos da RGPD, na eventual transmissão de dados a terceiros, são observados os seguintes procedimentos: informação inequívoca ao titular da razão da transmissão, consentimento (excepto por imposição legal), blindagem da forma de transmissão garantindo níveis de confidencialidade, segurança e protecção. Estes terceiros,  devem estar em conformidade com o RGDP / Privacy Shield Act, nomeadamente em termos de dever de sigilo, segurança e protecção, não podendo esses dados serem utilizados para outro fim, nem relacionados com outros que possuam.
+
+ 
+
+Os dados pessoais serão tratados sempre que possível dentro do espaço da União Europeia e em  países que estejam em conformidade com o RGPD / Privacy Shield.
+
+ 
+
+8- Duração da Conservação do Tratamento dos Dados Pessoais
+
+Serão conservados apenas o necessário à finalidade que foi identificada ou seja durante o tempo de contrato ou de relação comercial, podendo após esse período serem mantidos por 2 anos para efeitos de controlo. Por imposição legal os dados relativos a informação fiscal ou contabilística é retida por um período de 10 anos. Sobre este ponto iremos seguir as orientações da CNPD cumprindo sempre a orientação de que os dados devem somente ser mantidos pelo período estritamente necessário e para a finalidade para os quais foram transmitidos.
+
+ 
+
+9- Segurança no Tratamento dos Dados
+
+Os dados serão armazenados informaticamente em servidor mantido e controlado pela CremalPet, cuja segurança é sempre monitorizada em termos da infra-estrutura e do acesso a dados. O acesso é restrito e protegido por várias ferramentas de gestão de acessos e de encriptação, com o objectivo de que terceiros não autorizados não tenham acesso aos mesmos. O risco de segurança é assim minimizado mas não extinto havendo sempre a possibilidade de acesso ilegal aos dados. Neste caso serão implementadas medidas de retenção da fuga e de divulgação conforme RGPD.
+
+ 
+
+10. Direitos dos Titulares dos Dados Pessoais
+
+Os titulares gozam, em conformidade com a RGPD, do direito de acesso, de retificação, de oposição, de apagamento, de limitação ou de portabilidade dos dados. Para o exercício dos direitos, têm de apresentar, por escrito, o pedido a Cremal - Crematórios do Algarve Lda., Caminho dos Brejos - Cemitério novo de Albufeira, 8200-316 Albufeira ou através do email geral@cremalpet.pt.
+
+ 
+
+No pedido escrito, a CremalPet fará por motivos de segurança, a autenticação do respectivo emissor como legítimo titular dos dados. Em caso de dúvida o pedido não é atendido, podendo o emissor proceder à sua autenticação sob outra forma.
+
+Em todo o caso, o pedido pode não ser imediatamente satisfeito (imperativos legais ou outros). O titular será sempre informado neste caso, sendo expectável que no período de 1 mês seja concluído o procedimento requerido.
+
+ 
+
+No caso de apagamento (eliminação dos dados), os mesmos podem ficar retidos para posterior tratamento em virtude de imposição legal e pelo período que venha a ser imposto (10 anos para faturação por exemplo).
+
+ 
+
+11- Direito a reclamar
+
+A CremalPet está ao dispor dos titulares dos dados para o esclarecimento de qualquer questão sobre a recolha e tratamento dos dados através do email geral@cremal.pet.pt
+
+ 
+
+O titular dos dados é livre de apresentação de reclamação junto da autoridade de controlo CNPD – Comissão Nacional de Protecção de Dados, R. de São Bento 148, 1200-031 Lisboa relativamente à forma de recolha e tratamento de dados da CremalPet.
+
+ 
+
+12- Cookies, o que são e quais são utilizados
+O que é um Cookie ou Cookies?
+“Cookies” são ficheiros de código que são armazenadas no seu computador, tablet, dispositivo móvel, através do browser que guarda informação relacionada com preferências de navegação. Permitem melhorar o desempenho e a experiência de navegação dos seus utilizadores, aumentando, por um lado, a rapidez e eficiência de resposta e, por outro, eliminando a necessidade de introduzir repetidamente as mesmas informações.
+
+ 
+
+Para que servem os Cookies?
+Servem para recolher informação para permitir por exemplo que um carrinho de compras funcione armazenando os produtos anteriormente escolhidos. Desta forma, um cookie armazena informação útil e de interesse, permitindo uma navegação mais rápida e eficiente, eliminando a necessidade de introduzir repetidamente os mesmos dados.
+
+ 
+
+Eliminação ou Desactivação de Cookies
+
+Os cookies retêm apenas informação relacionada com as preferências do utilizador e este pode, a qualquer momento e através do seu navegador de internet (browser), decidir ser notificado sobre a receção de cookies, bem como bloquear a respetiva entrada no seu sistema.
+
+ 
+
+Para saber mais sobre como desactivar cookies dependendo do seu navegador, clique aqui: https://cookies.insites.com/disable-cookies/
+
+ 
+
+ 
+
+Tipo de cookies utilizados neste website
+– Cookies de sessão: cookies temporários que permanecem no arquivo de cookies do seu browser até sair do website. Normalmente esta informação é utilizada para permitir uma melhor experiência de navegação com base nos dados acedidos. Permite também identificar problemas de navegação possibilitando a sua resolução.
+-Cookies estritamente necessários: Permitem que navegue no website e use as suas funções, bem como aceder a áreas seguras. Sem estes cookies, os serviços que tenha requerido não podem ser prestados;
+– Cookies Analíticos: normalmente utilizados para criar informação agregada e não personalizada (anónima) acerca das estatísticas de utilização do website;
+– Cookies de Funcionalidade: estes permitem que o website identifique o utilizador e carregue o seu perfil com base nessa informação. Por exemplo o arranque de uma sessão de login iniciada aquando voltar ao website, não sendo necessário efetuar novamente o login cada vez que visita o website.
+
+ 
+
+O utilizador, ao usar este site, está a aceitar expressamente as Condições de Acesso e Utilização acima descritas.
